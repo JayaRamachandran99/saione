@@ -3,7 +3,7 @@ import '../Css/header.css';
 
 const Header = () => {
     return (
-        <p className="my_head">I am Header Component</p>
+        <p className="my_head">I am Header Components</p>
     );
 };
 
