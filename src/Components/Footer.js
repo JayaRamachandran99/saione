@@ -4,7 +4,8 @@ import '../Css/footer.css'
 const Footer = () => {
 
 return(
-    <p className="my_footer">I am Footer Component</p>
+    <p className="my_footer">I am Footer Component
+    </p>
     );
 };
 
